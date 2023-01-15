@@ -6,6 +6,7 @@
 nmap --script ftp-* -p 21 10.11.1.111
 ```
 
+# Port 22 - SSH 🚀:
 * If you have usernames test login with username:username
 * Vulnerable Versions to user enum: <7.7
 
