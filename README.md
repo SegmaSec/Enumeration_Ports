@@ -1,6 +1,6 @@
    # 📝ENUMERATION PORTS !!!📝
 
-## Port 21 - FTP 🚀:
+# Port 21 - FTP 🚀:
 
 ```bash
 nmap --script ftp-* -p 21 10.11.1.111
